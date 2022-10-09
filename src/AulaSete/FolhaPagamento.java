@@ -1,5 +1,5 @@
 package AulaSete;
-
+/*
 public class FolhaPagamento {
     public static void main(String[] args) {
         Horista h1 = new Horista("Ana", "10553",35,20,45);
@@ -10,3 +10,4 @@ public class FolhaPagamento {
         System.out.println(in1.toString());
     }
 }
+*/

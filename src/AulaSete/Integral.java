@@ -1,5 +1,5 @@
 package AulaSete;
-
+/*
 public class Integral extends Professor{
     protected double salario;
 
@@ -16,3 +16,4 @@ public class Integral extends Professor{
         return super.toString();
     }
 }
+*/

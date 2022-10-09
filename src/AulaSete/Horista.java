@@ -1,5 +1,5 @@
 package AulaSete;
-
+/*
 public class Horista extends Professor{
     protected int horas;
     protected double salHora;
@@ -18,3 +18,4 @@ public class Horista extends Professor{
         return super.toString();
     }
 }
+*/

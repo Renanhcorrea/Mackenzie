@@ -1,5 +1,5 @@
 package AulaSete;
-
+/*
 public class Professor {
     protected String nome;
     protected String matricula;
@@ -19,3 +19,4 @@ public class Professor {
         return  text;
     }
 }
+*/
